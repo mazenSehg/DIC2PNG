@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Desktop/myconverter2_lib/jai_imageio-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/log4j-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/jul-to-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/lept4j-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Desktop/myconverter2_lib/dcm4che-image-2.0.24.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Desktop/myconverter2_lib/dcm4che-imageio-2.0.25.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Desktop/myconverter2_lib/dcm4che-core-2.0.24.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Downloads/tess4j-3.2.1.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="/home/browniez/Desktop/myconverter2_lib/jai_codec-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/browniez/Documents/o/k/lib/jai-imageio-core-1.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
